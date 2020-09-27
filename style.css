@@ -1,0 +1,75 @@
+.parentDiv{
+    width:800px;
+    display:flex;
+}
+.logoDiv{
+    width:232px;
+    height:82px;
+    border:2px solid black;
+   margin-right:11px;
+}
+.bannerDiv{
+    width:557px;
+    height:82px;
+    border:2px solid black;
+}
+
+.news{
+    width:232px;
+    height:210px;
+    border:2px solid black;
+    margin-right:11px;
+    margin-top:11px;
+}
+.navigation{
+    width:557px;
+    height:49px;
+    border:2px solid black;
+   
+    background-color:yellowgreen;
+    margin-top:11px;
+   
+}
+
+
+.navigation li{
+    display:inline;
+    padding:15px;
+    line-height: 2px;
+
+}
+.nav2Div li{
+   text-decoration-color: transparent;
+}
+
+.parentDiv2{
+    width:800px;
+    display:flex;
+    margin:11px,11px,11px,0;
+}
+.ad{
+    width:232px;
+    height:205px;
+    border:2px solid black;
+    margin-right:11px;
+    margin-top:33px;
+  
+}
+.text{
+    width:557px;
+    height:384px;
+    border:2px solid black;
+  
+  
+}
+.parentDiv3{
+    width:800px;
+    display:flex;
+  
+}
+.bottombar{
+    width:800px;
+    height:44px;
+    border:2px solid black;
+    margin-top:15px; 
+}
